@@ -1,0 +1,46 @@
+fieldset{
+    border-radius: 1cap;
+    width: 260px;
+    border: 2px solid rgb(220, 176, 224);
+    padding: 30px;
+    margin-left: 580px;
+    background-color: rgba(248, 243, 236, 0.37);
+    box-shadow: 10px 10px 20px rgba(197, 197, 197, 0.315);
+    margin-top: 140px;
+    }
+
+    label{
+        color: rgb(123, 73, 143);
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+    input{
+        border-color: rgb(158, 117, 201);
+        background-color: rgba(232, 234, 235, 0.497);
+        border-radius: 5px;
+        
+    }
+
+    button{
+        color:rgb(225, 173, 228); 
+        background-color:rgb(202, 122, 214); 
+        padding:10px;
+        border: none;
+        border-radius:1ch;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       
+    }
+
+    h3{
+        color: rgb(190, 149, 229);
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+    }
+h1{
+    color: rgb(190, 149, 229);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin-top: 140px;
+    font-size: 10cap;
+}
+ 
