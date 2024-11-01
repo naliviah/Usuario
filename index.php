@@ -17,7 +17,7 @@ $resultado = mysqli_query($con, $sql);
 
 if(mysqli_num_rows($resultado)>0){
     echo "Liberado";
-    header('location: index.html');
+    header('location: login.html');
 }else{
     echo"Usuário ou senha invalidos";
 }
